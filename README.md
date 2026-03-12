@@ -20,3 +20,7 @@ integrated with the LeRobot framework for imitation learning.
 ## Supervisors
 - Prakash Aryan (prakash.aryan@unibe.ch)
 - Dr. Sebastiano Panichella (sebastiano.panichella@unibe.ch)
+
+## System architecture
+
+![System architecture](images/architecture-diagramme.png)
