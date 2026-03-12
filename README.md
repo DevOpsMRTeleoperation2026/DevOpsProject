@@ -7,7 +7,7 @@ integrated with the LeRobot framework for imitation learning.
 | Name | Role |
 |---|---|
 | Dominic Kronig | undef |
-| Edward Haynes | undef |
+| Edward Haynes | System Architect & Hardware Lead |
 | Ramon Näf | undef |
 | Yanis Berger | DevOps Lead / CI & Data Pipeline |
 
